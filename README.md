@@ -1,3 +1,5 @@
+#Summary of instructions here: https://logz.io/blog/elk-stack-on-docker/
+
 # Elastic stack (ELK) on Docker
 
 [![Elastic Stack version](https://img.shields.io/badge/Elastic%20Stack-7.13.0-00bfb3?style=flat&logo=elastic-stack)](https://www.elastic.co/blog/category/releases)

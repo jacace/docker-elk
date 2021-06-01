@@ -1,4 +1,4 @@
-# Summary of instructions here: https://logz.io/blog/elk-stack-on-docker/
+Summary of instructions here: https://logz.io/blog/elk-stack-on-docker/
 
 # Elastic stack (ELK) on Docker
 
